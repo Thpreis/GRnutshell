@@ -1502,10 +1502,93 @@ Since th densities of observable quantities scale like $\rho_r \propto a^{-4}$, 
  It is assumed that the inflaton field can decay through some coupling to ordinary matter and thus turn its energy density back into other constituents of the cosmic fluid $\Rightarrow$ \emph{reheating process}. \textbf{This is an open question}.
 
 \subsubsection{Inflation and structure formation}
-\todo{to do}
-\dots
+Once inflation sets in, the vacuum fluctuations of the inflaton field due to the uncertainty principle are quickly driven outside of the horizon (i.e. the horizon quickly contracts below the length scale of the quantum fluctuations), where they "freeze in" because they lack causal contact.\\
+\paragraph{Idea of Inflation originating cosmic structures}
+Like any other quantum field, the inflaton field must have undergone microscopic vacuum fluctuations due to Heisenberg's uncertainty relation. As inflation started, the wavelengths of these fluctuations grew so large that they became larger than the horizon at that time\footnote{In terms of comoving distance, the particle horizon is equal to the conformal time $\eta$ that has passed since the Big Bang.}. As a result, thee now largely microscopic fluctuations lose their causal connection, cannot decay any more and therefore freeze in. These fluctuations then serve as a seed for the structures in the Universe that we can observe today.\\
 \\
-Thus there are three quantities measurable to prove inflation
+The model for density fluctuations produced in this way is described crudely in the following:
+\begin{enumerate}
+	\item Introduce a conformal time $\md \eta$ for the inflationary epoch, i.e. $\eta \in (-\infty,0)=$ (beginning inflation, end inflation). With $H\approx constant$ during inflation one finds
+	\begin{equation*}
+		\md s^2 = a^2(\eta) \left[-\md \eta^2 + \md \vec{\omega}^2\right] \quad \Rightarrow \quad a \md \eta = c \md t
+	\end{equation*}
+	such that
+	\begin{equation*}
+		\eta = - \frac{c}{H a} \quad [\md \eta] = \text{length} \Rightarrow \; \mathcal{H} (\eta):= \frac{a}{c} H.
+	\end{equation*}
+\item Make a mean field ansatz for the inflaton field by decomposing it into a smooth part $\varphi_c$ and a part $\varphi$ responsible for fluctuations
+\begin{equation}
+	\varphi \rightarrow \phi_c + \varphi.
+\end{equation}
+Fluctuations of the field imply fluctuations of the metric. By Einsteins equations one finds a modified Poisson equation
+\begin{equation}
+	\frac{\md^2 u}{\md \eta^2} - \frac{\left(\frac{\md^2 z}{\md \eta^2}\right)}{z} u - \vec{\nabla}^2 u = 0,\quad z= \frac{a^2}{a^\prime}\phi^\prime_c,\; u=a \varphi + \phi z.
+\end{equation}
+By imposing the slow-roll conditions and only perturbing to the $1^{st}$ order, one can approximate this field equation. One finds a free mode expansion of the field $u\approx a \varphi$, thus of the fluctuations, by this approximation ($V$ is assumed to be nearly constant). The solution through a Fourier transform reads
+\begin{equation*}
+	u^\pm_k = u^{(0)}_k e^{\pm i k \eta} \left(1 \pm \frac{i}{k \eta}\right) \; \Rightarrow \; \varphi^\pm_k = \varphi^{(0)}_k \frac{H}{ck} e^{\pm i k \eta} \left[i \pm k \eta\right].
+\end{equation*}
+These are the inflaton fluctuations, \emph{Bunch-Davies modes}.
+\item With this result, one can make the case distinction
+\begin{mybox}{}
+	\begin{enumerate}
+		\item $\abs{k \eta} \ll 1 \Rightarrow \varphi^\pm_k\approx constant$ (i.e. freeze-in) \emph{and} $\lambda \gg$ Horizon ($\frac{k c}{H} \ll 1$).
+		\item $\abs{k \eta} \gg 1 \Rightarrow \varphi^\pm_k$ oscillating very fast \emph{and} $\lambda \ll$ Horizon ($\frac{k c}{H} \gg 1$).
+	\end{enumerate}
+\end{mybox}
+\item Thus, by the exponential expansion of inflation, $k$ grows greatly beyond the horizon. In the horizon, the modes oscillate and they freeze-in after being driven out of the horizon. Thus in the horizon inflaton and anti-inflaton particles are causally connected, such that they recombine and fluctuations disappear. They are no longer causally connected outside of the horizon, such that they cannot recombine anymore and the fluctuations stay after being driven out of horizon. Then, out of horizon with $\lambda \gg$Horizon, the inflaton fluctuations are 
+\begin{equation*}
+	\tilde{\varphi}^\pm_k=\varphi^{(0)}_k \frac{H(t_X)}{c k},
+\end{equation*}
+where $t_X$ is the time of modes crossing the horizon.
+\item In order to estimate the size of the remaining fluctuations outside of the horizon one has to evaluate the amplitude of the field. This can be done via the vacuum expectation value of the inflaton field
+\begin{equation}
+\expval{\tilde{\varphi}^\pm_k}{0} = \varphi^{(0)}_k= \frac{E^{\frac{3}{2}}_{pl}}{\sqrt{2 \hbar c k} }.
+\end{equation}
+Then the amplitude of which inflaton modes on average freeze out as they leave the horizon is then
+ \begin{equation}
+ 	\expval{\abs{\tilde{\varphi}^\pm_k}^2}{0} = \frac{E^3_{pl}}{2 \hbar c^3} \frac{H(t_X)}{k^3}, \quad H(t_X)\approx H_k.
+ \end{equation}
+ \item In the next step one wants to find the \emph{(primordial) density power spectrum}. Therefore one wants to derive a relation between the density fluctuations, Fourier modes and the fluctuations today. Thus something like 
+ \begin{equation*}
+ 	(\text{inflaton fluctuations}(k))\propto (\text{cosmic density fluctuations}(k)).
+ \end{equation*}
+One finds
+\begin{equation}
+	\delta := \frac{\delta \rho}{\rho} = \frac{2 \cdot 16 \pi}{E^2_{pl}} \frac{V}{\frac{\md V}{\md \varphi_c}} \cdot \varphi. 
+\end{equation}
+Therefore the amplitude of mean density fluctuations is 
+\begin{equation}
+	\expval{\abs{\left(\frac{\delta \rho}{\rho}\right)_k}^2}{0} = \frac{4}{3} \frac{1}{E_{pl}} \frac{V}{k^3 \epsilon} |_{k=a H},
+\end{equation}
+which is evaluated at the time where modes with $k$ crossed the horizon and freezes in.\\
+Therefore we find that the density fluctuations depend on $k$, i.e. they have a defined spectrum. This is the \emph{density power spectrum} $P(k)$, which says how much of the signal (e.g. of CMB) is at wavenumber $k$
+\begin{equation}
+	P(k)=\abs{\hat{\delta}(\vec{k}) }^2.
+\end{equation}
+\paragraph{Comment on matter power spectrum, may remove later if added in structure formation}
+The matter power spectrum describes the density contrast of the universe (the difference between local and mean density) as a function of scale. It is the Fourier transform of the matter correlation function. On large scales, gravity competes with cosmic expansion and structures grow according to linear theory. In this regime, the density contrast field is Gaussian, Fourier modes evolve independently, and the power spectrum is sufficient to completely describe the density field. On small scales, gravitational collapse is non-linear, and can only be computed accurately using $N$-body simulations.
+\item The scalar power spectrum is formally defined as
+\begin{equation}
+\mathcal{P}_S := \frac{k^3}{2 \pi^2} \expval{\left(\frac{\delta \rho}{\rho}\right)^2_k}.
+\end{equation}
+\item The modes caused by the inflationary expansion of quantum fluctuations are called \emph{scalar modes}. Their power spectrum is with the above result
+\begin{equation}
+	\mathcal{P}_S = \frac{2}{3\pi^2 E_{pl}} \left(\frac{V}{\epsilon}\right)_{k=aH},
+\end{equation}
+again evaluated at the point when modes left horizon.
+\item This scalar power spectrum has an exponent close to one
+\begin{equation}
+	\frac{\md \ln \mathcal{P}_S}{\md \ln k} = - 6 \epsilon +2 \eta \equiv n_s -1 \quad \Rightarrow\quad P_S = A k^{n_s}, \; A=const.
+\end{equation}
+The index of $\mathcal{P}_S,n_s$, can now be measured, thus a linear combination of the slow-roll parameters can be measured, this is one possibility to test inflation.
+\item Fluctuations in the inflation field result in fluctuations in the metric. This results in gravitational waves, the so-called tensor-modes. Thus, the tensor modes also have a power spectrum
+\begin{align}
+	\mathcal{P}_t &= \frac{3^2}{\epsilon \pi^2 E_{pl}} V|_{k=aH} = \tilde{A}k^{n_t} = \tilde{A} k^{-2 \epsilon} \nonumber \\
+	\Rightarrow \quad \frac{\md \ln \mathcal{P}_t}{\md \ln k} &= -2 \epsilon \equiv n_t \nonumber \\
+	\Rightarrow \quad \frac{\mathcal{P_t}}{\mathcal{P}_s} &=16 \epsilon =: r.
+\end{align}
+\item Thus there are three quantities measurable to prove inflation
 \begin{align}
 	n_s &= 2 \eta - 6 \epsilon +1 \\
 	n_t &= -2 \epsilon\\
@@ -1519,8 +1602,25 @@ Thus there are three quantities measurable to prove inflation
 		\item Primordial gravitational waves with an almost flat spectrum are predicted; their spectral index should be given by $-2 \epsilon = n_t$.
 		\item The ration between tensor and scalar perturbations should be given by $16\epsilon =r$.
 	\end{enumerate}
-Until now, primordial gravitational waves have not yet been observed without a doubt.
+	Until now, primordial gravitational waves have not yet been observed without a doubt.
 \end{mybox}
+
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1558,8 +1658,92 @@ today (which is cosmological constant), a clear deviation would imply that accel
 
 
 \section{Evolution of cosmic structures}
-\todo{To insert from my notes}
+
 \subsection{Linear perturbation theory}
+Here we describe the basic theory for structure growth in the expanding universe. With the inhomogeneities being much smaller than the typical scale of the universe, we can neglect effects of GR/curvature and finite speed of information propagation and work with Newtonian dynamics and classical Hydrodynamics (fluid approximation).\\
+We thus describe inhomogeneities in a cosmic fluid\footnote{Ideal fluids here, i.e. set of mass points with infinitely small mean free path (obvs. not true for cosmic fluids, but ok approximation in large scale regime).} which contains at least radiation, dark and baryonic matter and which moves according to Newtonian gravity:\footnote{Consider thus a non-relativistic fluid with mass density $\rho$, pressure $P\ll \rho$ and velocity $\vec{v}$.}
+\begin{mybox}{Euler-Poisson equations}
+	Energy-momentum conservation of a cosmic fluid $\partial_\mu T^{\mu \nu}=0$ is stated by the Euler-Poisson equations
+	\begin{align}
+		\frac{\partial \rho}{\partial t} + \vec{\nabla} \cdot (\rho \vec{v}) &= 0 \quad \text{mass conservation} \\
+		\frac{\partial \vec{v}}{\partial t} + (\vec{v}\cdot \vec{\nabla}) \vec{v} &= - \frac{\vec{\nabla} P}{\rho} - \vec{\nabla}\Phi \text{  momentum conservation}\\
+		\vec{\nabla}^2 \Phi &= 4 \pi \mG \rho.
+	\end{align}
+\end{mybox}
+We want to find such a set of equations solely for the fluctuations parts of the $\rho,\vec{v}$ fields. We hence decompose the velocity and density field into their homogeneous background values, indicated by subscript $0$, and small perturbations
+
+\begin{equation}
+	\rho = \rho_0 (1+\delta), \; \vec{v}=\vec{v}_0+a \vec{u}, \; \Phi=\Phi_0+\phi.
+\end{equation}
+These are given in \emph{comoving coordinates} $\vec{r}=a(t) \vec{x}$, i.e.
+\begin{equation*}
+	\frac{\md}{\md t}(a \vec{x}) = \underbrace{\dot{a} \vec{x}}_{\text{Hubble flow}} + \underbrace{a \dot{\vec{x}}}_{\text{peculiar velocity}}
+\end{equation*}
+with the \emph{relative density contrast}
+\begin{equation}
+	\label{eq:densitycontrast}
+	\delta = \frac{\delta \rho}{\rho}.
+\end{equation}
+\begin{mybox}{Linear perturbation equations}
+	By only considering perturbations up to first order we find three perturbation equations
+	\begin{align}
+		(C) \quad \dot{\delta}+\vec{\nabla}\cdot \vec{u} &=0\\
+		(E) \quad \dot{\vec{u}} + 2 H \vec{u} &= - \frac{\vec{\nabla}P}{a^2 \rho_0} - \frac{\vec{\nabla}\phi}{a^2} \\
+		(P) \quad \vec{\nabla}^2 \phi &= 4 \pi \mG \rho_0 \delta a^2\\
+		&\Leftrightarrow \frac{\delta \hat{\phi}}{c^2}=-\frac{3}{2} \frac{k^2_0\hat{\delta}}{k^2 a} |_{k^2_0\equiv\Omega_{K,0}H^2_0/c^2},
+	\end{align}
+where $(C)$ implies that particles must stream together to form density correlations.
+\end{mybox}
+We find an equation of state linking the pressure fluctuations to the density fluctuations
+\begin{equation}
+	 P=c^2_s \rho_0 \delta,
+\end{equation}
+\footnote{Not exactly correct, because $c_s$ has to be taken under adiabatic conditions, an adiabatic index is missing here.}
+where $c_s=0$ for linearized CDM fluctuations.
+
+\subsubsection{Density perturbations}
+By combination of the perturbation equations one finds
+\begin{align}
+\ddot{\delta}+ 2 H \dot{\delta} &= \left[4 \pi \mG \rho_0 + \frac{c^2_s}{a^2} \vec{\nabla}^2\right]\delta,\\
+\ddot{\delta}_k + 2 H \dot{\delta}_k &= \left[4 \pi \mG \rho_0 - \frac{c^2_s k^2}{a^2}\right]\delta_k, \nonumber \\
+ \text{using       } \delta(\vec{x},t) &= \int \frac{\md^3 k}{(2 \pi)^3} \delta_k(\vec{k},t) e^{-i \vec{k}\cdot \vec{x}}\nonumber.
+\end{align}
+\begin{enumerate}
+	\item One finds a d'Alembert equation for sound waves by dropping $\dot{\delta}$ and gravity term.
+	\item By dropping $\dot{\delta}$ and $\vec{\nabla}^2$ one finds an exponentially growing oscillator, this describes the growth of cosmic structure.
+\end{enumerate}
+$2H \dot{\delta}$ is a damping term guaranteeing that cosmic structure growth goes as a power law, not exponentially. In case $1)$ this damping term dissipates the sound waves.
+
+Below Jean's length, the fluctuations oscillate with decreasing amplitude. Above the Jeans' length, the fluctuations experience power-law growth, rather than exponential growth due to the damping term.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 \subsection{Linear growth factor, perturbations within and outside the horizon}
 \subsection{Velocity perturbations and Zel'dovich approximation}
 \subsection{Nonlinear evolution and power spectra}

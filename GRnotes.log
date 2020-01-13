@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.22)  28 DEC 2019 18:36
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.22)  12 JAN 2020 11:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -5616,19 +5616,19 @@ Overfull \hbox (3.69086pt too wide) in paragraph at lines 327--327
  []
 
 
-Overfull \hbox (1.26727pt too wide) in paragraph at lines 423--423
+Overfull \hbox (1.26727pt too wide) in paragraph at lines 427--427
  [][] []\TU/TeXGyrePagella(0)/m/n/10.95 Velocity perturbations and Zel’dovich a
 pproxim- 
  []
 
 [6]
-Overfull \hbox (11.88112pt too wide) in paragraph at lines 457--457
+Overfull \hbox (11.88112pt too wide) in paragraph at lines 461--461
  [][] []\TU/TeXGyrePagella(2)/m/sc/10.95 general relativity as a quantum field 
 theory []  
  []
 
 
-Overfull \hbox (34.85825pt too wide) in paragraph at lines 465--465
+Overfull \hbox (34.85825pt too wide) in paragraph at lines 469--469
  [][] []\TU/TeXGyrePagella(0)/m/n/10.95 The action for matter fields in a gravi
 tational field []  
  []
@@ -5783,11 +5783,6 @@ Overfull \hbox (0.42705pt too wide) detected at line 24
 Overfull \hbox (0.4753pt too wide) in paragraph at lines 26--26
  \TU/TeXGyrePagella(0)/m/n/10.95 MEASUREMENT TREATMENT IN COSMOLOGY SECTION [][
 ]  
- []
-
-
-Overfull \hbox (0.2409pt too wide) detected at line 34
- [][][]\TU/TeXGyrePagella(0)/m/n/10.95 254[][]
  []
 
 )
@@ -9532,137 +9527,183 @@ Underfull \hbox (badness 10000) in paragraph at lines 1496--1503
 
  []
 
-[250] [251] [252]
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1551
+[250]
+Underfull \hbox (badness 10000) in paragraph at lines 1505--1506
 
  []
 
+
+Overfull \hbox (5.81238pt too wide) in paragraph at lines 1507--1510
+[] []\TU/TeXGyrePagella(2)/m/sc/10.95 idea of inflation originating cosmic stru
+ctures[] \TU/TeXGyrePagella(0)/m/n/10.95 Like any
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1507--1510
+
+ []
+
+[251]
+Overfull \hbox (9.08958pt too wide) in paragraph at lines 1539--1540
+\TU/TeXGyrePagella(0)/m/n/10.95 being driven out of horizon. Then, out of horiz
+on with $[] []$Horizon,
+ []
+
+[252]
+Overfull \hbox (16.92036pt too wide) in paragraph at lines 1563--1566
+[][][][]$\TU/TeXGyrePagella(0)/m/n/10.95 , which says how much of the signal (e
+.g. of CMB) is at wavenum-
+ []
+
+
+Overfull \hbox (10.55756pt too wide) in paragraph at lines 1570--1571
+[] []\TU/TeXGyrePagella(2)/m/sc/10.95 comment on matter power spectrum, may rem
+ove later
+ []
+
+
+Overfull \hbox (5.47672pt too wide) in paragraph at lines 1570--1571
+\TU/TeXGyrePagella(2)/m/sc/10.95 if added in structure formation[] \TU/TeXGyreP
+agella(0)/m/n/10.95 The matter power spec-
+ []
+
 [253]
-Overfull \hbox (10.92253pt too wide) in paragraph at lines 1581--1583
+Overfull \hbox (2.50735pt too wide) in paragraph at lines 1585--1586
+\TU/TeXGyrePagella(0)/m/n/10.95 ric. This results in gravitational waves, the s
+o-called tensor-modes.
+ []
+
+[254] [255]
+Underfull \hbox (badness 10000) in paragraph at lines 1647--1651
+
+ []
+
+[256]
+Overfull \hbox (10.92253pt too wide) in paragraph at lines 1681--1683
 \TU/TeXGyrePagella(0)/m/n/10.95 Thus, one has to remove the mean value/backgrou
 nd noise of the galactic
  []
 
-[254] [255]
-Underfull \hbox (badness 10000) in paragraph at lines 1622--1623
+[257] [258]
+Underfull \hbox (badness 10000) in paragraph at lines 1722--1723
 
  []
 
 File: gfx/gravlensingLightcongruence.png Graphic file (type bmp)
 <gfx/gravlensingLightcongruence.png>
 
-Overfull \hbox (2.30031pt too wide) in paragraph at lines 1633--1635
+Overfull \hbox (2.30031pt too wide) in paragraph at lines 1733--1735
 \TU/TeXGyrePagella(0)/m/n/10.95 For a lightray introduce an affine parameter pa
 rametrizing the geodesic,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1637--1642
+Underfull \hbox (badness 10000) in paragraph at lines 1737--1742
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1637--1642
+Underfull \hbox (badness 10000) in paragraph at lines 1737--1742
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1637--1642
+Underfull \hbox (badness 10000) in paragraph at lines 1737--1742
 
  []
 
 File: gfx/gravlensingSachsbasis.png Graphic file (type bmp)
 <gfx/gravlensingSachsbasis.png>
-[256] [257] [258]
-Overfull \hbox (0.64685pt too wide) in paragraph at lines 1692--1696
+[259] [260] [261]
+Overfull \hbox (0.64685pt too wide) in paragraph at lines 1792--1796
 \TU/TeXGyrePagella(0)/m/n/10.95 shows that the cosmological constant doesn’t co
 ntribute to the propaga-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1692--1696
+Underfull \hbox (badness 10000) in paragraph at lines 1792--1796
 
  []
 
 
-Overfull \hbox (30.21718pt too wide) detected at line 1698
+Overfull \hbox (30.21718pt too wide) detected at line 1798
  $[][][][] [][] [] [][][][][][] [] [][][][][][] [][] [] [][][][][][][] [] [][][
 ][][] [] [][][] [] [][][][][][][]$  
  []
 
 
-Overfull \hbox (4.33704pt too wide) in paragraph at lines 1709--1715
+Overfull \hbox (4.33704pt too wide) in paragraph at lines 1809--1815
 \TU/TeXGyrePagella(0)/m/n/10.95 we took the positive root branch since a radial
  comoving light ray should
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1709--1715
+Underfull \hbox (badness 10000) in paragraph at lines 1809--1815
 
  []
 
-[259]
-Overfull \hbox (1.43645pt too wide) in paragraph at lines 1729--1733
+[262]
+Overfull \hbox (1.43645pt too wide) in paragraph at lines 1829--1833
 \TU/TeXGyrePagella(0)/m/n/10.95 The relativistic hydrodynamical equations for a
  metric connection $[][] []
  []
 
 
-Overfull \hbox (5.33707pt too wide) in paragraph at lines 1735--1737
+Overfull \hbox (5.33707pt too wide) in paragraph at lines 1835--1837
 \TU/TeXGyrePagella(0)/m/n/10.95 yields the \TU/TeXGyrePagella(0)/m/it/10.95 rel
 ativistic continuity equation \TU/TeXGyrePagella(0)/m/n/10.95 (time-derivative 
 of observer mov-
  []
 
-[260] [261]
-Overfull \hbox (4.07413pt too wide) in paragraph at lines 1808--1810
+[263] [264]
+Overfull \hbox (4.07413pt too wide) in paragraph at lines 1908--1910
 \TU/TeXGyrePagella(0)/m/n/10.95 Equivalently, the rel. hydrostatic equation in 
 stationary, spherically sym-
  []
 
-[262]
-Overfull \hbox (3.17902pt too wide) in paragraph at lines 1812--1814
+[265]
+Overfull \hbox (3.17902pt too wide) in paragraph at lines 1912--1914
 \TU/TeXGyrePagella(0)/m/n/10.95 sure as well. Thus, pressure has inertia ! Pres
 sure corresponds to energy-
  []
 
 
-Overfull \hbox (0.64983pt too wide) in paragraph at lines 1812--1814
+Overfull \hbox (0.64983pt too wide) in paragraph at lines 1912--1914
 [][] [] [][]$\TU/TeXGyrePagella(0)/m/n/10.95 , since $[]$ quantifies deviation 
 of the metric of flat (Minkowskian)
  []
 
-[263]) [264]
+[266]) [267]
 \openout2 = `Chapters/grQFT.aux'.
 
  (./Chapters/grQFT.tex
 Chapter 5.
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--19
-
- []
-
-[265
+[268
 
 
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 11--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--19
+
+ []
+
+[269]
 Underfull \hbox (badness 10000) in paragraph at lines 22--25
 
  []
 
-[266]
+[270]
 Overfull \hbox (7.8674pt too wide) in paragraph at lines 68--71
 \TU/TeXGyrePagella(0)/m/n/10.95 Now one writes $[][]$ as a sum over all possibl
 e independent products
@@ -9689,7 +9730,7 @@ Overfull \hbox (12.40971pt too wide) has occurred while \output is active
  []|[]|
  []
 
-[267] [268]
+[271] [272]
 Overfull \hbox (0.99724pt too wide) in paragraph at lines 109--112
 \TU/TeXGyrePagella(0)/m/n/10.95 We therefore succeeded with the aim to construc
 t a self-consistent
@@ -9706,7 +9747,7 @@ Overfull \hbox (12.40971pt too wide) has occurred while \output is active
  []|[]|
  []
 
-[269] [270]
+[273] [274]
 File: gfx/feynmanquantumgravity.png Graphic file (type bmp)
 <gfx/feynmanquantumgravity.png>
 
@@ -9714,7 +9755,7 @@ Overfull \hbox (12.40971pt too wide) has occurred while \output is active
  []|[]|
  []
 
-[271] [272]
+[275] [276]
 Chapter 6.
 
 Overfull \hbox (3.38431pt too wide) in paragraph at lines 230--232
@@ -9722,12 +9763,12 @@ Overfull \hbox (3.38431pt too wide) in paragraph at lines 230--232
 tensor are read-
  []
 
-[273
+[277
 
 
 ]
 Chapter 7.
-[274]
+[278]
 Overfull \hbox (0.97441pt too wide) in paragraph at lines 302--307
 \TU/TeXGyrePagella(0)/m/n/10.95 tion). As will be seen in the lecture, the mani
 fold describing space-
@@ -9739,16 +9780,16 @@ Overfull \hbox (2.68445pt too wide) in paragraph at lines 312--313
 what not for observer
  []
 
-[275
+[279
 
 
-] [276]
+] [280]
 Overfull \hbox (3.91084pt too wide) in paragraph at lines 371--377
 \TU/TeXGyrePagella(0)/m/n/10.95 zero, spin one particles violate Lorentz invari
 ance unless the fields
  []
 
-[277] [278]) [279]
+[281] [282]) [283]
 \tf@thm=\write14
 \openout14 = `GRnotes.thm'.
 
@@ -10036,12 +10077,12 @@ Package logreq Info: Writing requests to 'GRnotes.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 59942 strings out of 493007
- 1238865 string characters out of 6136718
- 2082209 words of memory out of 5000000
- 62845 multiletter control sequences out of 15000+600000
+ 59941 strings out of 493007
+ 1238797 string characters out of 6136718
+ 2084209 words of memory out of 5000000
+ 62844 multiletter control sequences out of 15000+600000
  547987 words of font info for 174 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
  87i,23n,138p,10510b,5680s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on GRnotes.pdf (289 pages).
+Output written on GRnotes.pdf (293 pages).

@@ -406,72 +406,76 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.5.2.2}{Inflation and structure formation}}{251}{subsubsection.4.5.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5.3}{Dark Energy}}{252}{subsection.4.5.3}
+\contentsline {paragraph}{{Idea of Inflation originating cosmic structures}}{251}{paragraph*.60}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.5.3.1}{On inflation as dark energy}}{252}{subsubsection.4.5.3.1}
+\contentsline {paragraph}{{Comment on matter power spectrum, may remove later if added in structure formation}}{254}{paragraph*.61}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.5.3.2}{On the role of dark energy as byproduct of the universe or of dark energy}}{252}{subsubsection.4.5.3.2}
+\contentsline {subsection}{\numberline {4.5.3}{Dark Energy}}{255}{subsection.4.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.5.3.3}{Self-interacting scalar field}}{253}{subsubsection.4.5.3.3}
+\contentsline {subsubsection}{\numberline {4.5.3.1}{On inflation as dark energy}}{255}{subsubsection.4.5.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}{Evolution of cosmic structures}}{253}{section.4.6}
+\contentsline {subsubsection}{\numberline {4.5.3.2}{On the role of dark energy as byproduct of the universe or of dark energy}}{255}{subsubsection.4.5.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.6.1}{Linear perturbation theory}}{253}{subsection.4.6.1}
+\contentsline {subsubsection}{\numberline {4.5.3.3}{Self-interacting scalar field}}{256}{subsubsection.4.5.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.6.2}{Linear growth factor, perturbations within and outside the horizon}}{253}{subsection.4.6.2}
+\contentsline {section}{\numberline {4.6}{Evolution of cosmic structures}}{256}{section.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.6.3}{Velocity perturbations and Zel'dovich approximation}}{253}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.1}{Linear perturbation theory}}{256}{subsection.4.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.6.4}{Nonlinear evolution and power spectra}}{253}{subsection.4.6.4}
+\contentsline {subsection}{\numberline {4.6.2}{Linear growth factor, perturbations within and outside the horizon}}{256}{subsection.4.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.6.5}{The Cosmic Microwave Background}}{253}{subsection.4.6.5}
+\contentsline {subsection}{\numberline {4.6.3}{Velocity perturbations and Zel'dovich approximation}}{256}{subsection.4.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.6.5.1}{The Dipole}}{253}{subsubsection.4.6.5.1}
+\contentsline {subsection}{\numberline {4.6.4}{Nonlinear evolution and power spectra}}{256}{subsection.4.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.6.5.2}{Perturbation equations and the Sachs-Wolfe effect}}{254}{subsubsection.4.6.5.2}
+\contentsline {subsection}{\numberline {4.6.5}{The Cosmic Microwave Background}}{256}{subsection.4.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.7}{Gravitational Lensing}}{255}{section.4.7}
+\contentsline {subsubsection}{\numberline {4.6.5.1}{The Dipole}}{256}{subsubsection.4.6.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.7.1}{Gravitational Lensing Equation from GR}}{255}{subsection.4.7.1}
+\contentsline {subsubsection}{\numberline {4.6.5.2}{Perturbation equations and the Sachs-Wolfe effect}}{257}{subsubsection.4.6.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.7.2}{Thin gravitational lenses}}{255}{subsection.4.7.2}
+\contentsline {section}{\numberline {4.7}{Gravitational Lensing}}{258}{section.4.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.7.3}{Correlation functions (no thin lens approximation)}}{255}{subsection.4.7.3}
+\contentsline {subsection}{\numberline {4.7.1}{Gravitational Lensing Equation from GR}}{258}{subsection.4.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.8}{Theoretical Astrophysics}}{255}{section.4.8}
+\contentsline {subsection}{\numberline {4.7.2}{Thin gravitational lenses}}{258}{subsection.4.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.9}{Two examples of Relativistic Astrophysics}}{256}{section.4.9}
+\contentsline {subsection}{\numberline {4.7.3}{Correlation functions (no thin lens approximation)}}{258}{subsection.4.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.9.1}{Gravitational Lensing - TO COMPLETE FROM SCRIPT}}{256}{subsection.4.9.1}
+\contentsline {section}{\numberline {4.8}{Theoretical Astrophysics}}{258}{section.4.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.9.1.1}{Introduction of 2d Sachs space}}{256}{subsubsection.4.9.1.1}
+\contentsline {section}{\numberline {4.9}{Two examples of Relativistic Astrophysics}}{259}{section.4.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.9.1.2}{Circular light bundle}}{259}{subsubsection.4.9.1.2}
+\contentsline {subsection}{\numberline {4.9.1}{Gravitational Lensing - TO COMPLETE FROM SCRIPT}}{259}{subsection.4.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.10}{Tolman-Oppenheimer-Volkoff solution}}{260}{section.4.10}
+\contentsline {subsubsection}{\numberline {4.9.1.1}{Introduction of 2d Sachs space}}{259}{subsubsection.4.9.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.10.0.1}{Equivalent treatment of hydrodynamic equations and solution of a fluid in hydrostatic equilibrium - Weinberg}}{261}{subsubsection.4.10.0.1}
+\contentsline {subsubsection}{\numberline {4.9.1.2}{Circular light bundle}}{262}{subsubsection.4.9.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.10.0.2}{Stationary solution}}{262}{subsubsection.4.10.0.2}
+\contentsline {section}{\numberline {4.10}{Tolman-Oppenheimer-Volkoff solution}}{263}{section.4.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}{General Relativity as a Quantum Field Theory}}{265}{chapter.5}
+\contentsline {subsubsection}{\numberline {4.10.0.1}{Equivalent treatment of hydrodynamic equations and solution of a fluid in hydrostatic equilibrium - Weinberg}}{264}{subsubsection.4.10.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}{Conceptional differences- TO DO}}{265}{section.5.1}
+\contentsline {subsubsection}{\numberline {4.10.0.2}{Stationary solution}}{265}{subsubsection.4.10.0.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}{On physical theories, remarks by Feynman}}{265}{section.5.2}
+\contentsline {chapter}{\numberline {5}{General Relativity as a Quantum Field Theory}}{269}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}{How Feynman derived GR from a field theoretical approach}}{266}{section.5.3}
+\contentsline {section}{\numberline {5.1}{Conceptional differences- TO DO}}{269}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.1}{The action for matter fields in a gravitational field}}{270}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.2}{On physical theories, remarks by Feynman}}{269}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.2}{Final formulation of Gravity on path to quantum gravity}}{271}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.3}{How Feynman derived GR from a field theoretical approach}}{270}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}{Possible Exam problems}}{273}{chapter.6}
+\contentsline {subsection}{\numberline {5.3.1}{The action for matter fields in a gravitational field}}{274}{subsection.5.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}{Important equations of GR - TO DO}}{275}{chapter.7}
+\contentsline {subsection}{\numberline {5.3.2}{Final formulation of Gravity on path to quantum gravity}}{275}{subsection.5.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}{Differential Geomtetry}}{275}{section.7.1}
+\contentsline {chapter}{\numberline {6}{Possible Exam problems}}{277}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}{Statements from problem sheets}}{275}{section.7.2}
+\contentsline {chapter}{\numberline {7}{Important equations of GR - TO DO}}{279}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}{Statements to incorporate}}{276}{section.7.3}
+\contentsline {section}{\numberline {7.1}{Differential Geomtetry}}{279}{section.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}{Statements from problem sheets}}{279}{section.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}{Statements to incorporate}}{280}{section.7.3}
