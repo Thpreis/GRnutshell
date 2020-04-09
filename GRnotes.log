@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.22)  12 JAN 2020 11:42
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.22)  9 APR 2020 14:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3400,6 +3400,24 @@ LaTeX Info: Redefining \addtolength on input line 81.
 zlibrary3d.code.tex
 File: tikzlibrary3d.code.tex 2013/07/17 v3.0.1a (rcs-revision 1.2)
 )
+(/usr/share/texlive/texmf-dist/tex/latex/frcursive/frcursive.sty
+Package: frcursive 2004/02/01 v1.2 support package for French Cursive
+\seyesThickness=\skip151
+\seyes@box=\box78
+\seyes@ln=\skip152
+)
+(/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks73
+\SOUL@lasttoken=\toks74
+\SOUL@cmds=\toks75
+\SOUL@buffer=\toks76
+\SOUL@token=\toks77
+\SOUL@spaceskip=\skip153
+\SOUL@ttwidth=\dimen315
+\SOUL@uldp=\dimen316
+\SOUL@ulht=\dimen317
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -3433,31 +3451,32 @@ Package biblatex Info: ... file 'german.lbx' found.
 File: german.lbx 2017/12/19 v3.10 biblatex localization (PK/JW/AB)
 ))
 (./GRnotes.aux (./FrontBackmatter/Titlepage.aux)
-(./FrontBackmatter/Contents.aux) (./Chapters/diffgeo.aux)
-(./Chapters/grtheory.aux) (./Chapters/grapplication.aux)
-(./Chapters/grcosmology.aux) (./Chapters/grQFT.aux))
+(./FrontBackmatter/Contents.aux) (./Chapters/Acknowledgements.aux)
+(./Chapters/diffgeo.aux) (./Chapters/grtheory.aux)
+(./Chapters/grapplication.aux) (./Chapters/grcosmology.aux)
+(./Chapters/grQFT.aux))
 \openout1 = `GRnotes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Data encoding 'ascii' specified.
@@ -3468,37 +3487,37 @@ Package biblatex Info: Data encoding 'ascii' specified.
 \openout4 = `GRnotes-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'GRnotes.bbl' not found.
-
-No file GRnotes.bbl.
-Package biblatex Info: Reference section=0 on input line 73.
-Package biblatex Info: Reference segment=0 on input line 73.
+Package biblatex Info: ... file 'GRnotes.bbl' found.
+ (./GRnotes.bbl)
+Package biblatex Info: Reference section=0 on input line 79.
+Package biblatex Info: Reference segment=0 on input line 79.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count480
-Package scrhack Info: undefining \float@addtolists on input line 73.
+Package scrhack Info: undefining \float@addtolists on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  TU/TeXGyrePagellaMath(1)/m/n --> TU/TeXGyrePagella(0)/m
-/n on input line 73.
+/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TeXGyrePagella(0)/m/it on input lin
-e 73.
+e 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TeXGyrePagella(0)/bx/n on input lin
-e 73.
+e 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 73.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 73.
-LaTeX Info: Redefining \microtypecontext on input line 73.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 79.
+LaTeX Info: Redefining \microtypecontext on input line 79.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
+
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-PalatinoLinotype.cfg
 File: mt-PalatinoLinotype.cfg 2012/03/10 v1.0 microtype config. file: Palatino 
 Linotype and similar fonts (LBD)
@@ -4046,8 +4065,8 @@ Package microtype Info: Character `‒' is missing
 Package microtype Info: Character `―' is missing
 (microtype)             in font `\TU/TeXGyrePagella(0)/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-\AtBeginShipoutBox=\box78
-Package hyperref Info: Link coloring ON on input line 73.
+\AtBeginShipoutBox=\box79
+Package hyperref Info: Link coloring ON on input line 79.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -4057,9 +4076,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count481
 )
-LaTeX Info: Redefining \ref on input line 73.
-LaTeX Info: Redefining \pageref on input line 73.
-LaTeX Info: Redefining \nameref on input line 73.
+LaTeX Info: Redefining \ref on input line 79.
+LaTeX Info: Redefining \pageref on input line 79.
+LaTeX Info: Redefining \nameref on input line 79.
 
 (./GRnotes.out) (./GRnotes.out)
 \@outlinefile=\write8
@@ -4069,7 +4088,7 @@ LaTeX Info: Redefining \nameref on input line 73.
 
 Package tikz-feynman Warning: LuaTeX is required if you wish to have vertices a
 utomatically placed. You can disable this warning by setting /tikzfeynman/warn 
-luatex=false on input line 73.
+luatex=false on input line 79.
 
 \openout2 = `FrontBackmatter/Titlepage.aux'.
 
@@ -5616,19 +5635,19 @@ Overfull \hbox (3.69086pt too wide) in paragraph at lines 327--327
  []
 
 
-Overfull \hbox (1.26727pt too wide) in paragraph at lines 427--427
+Overfull \hbox (1.26727pt too wide) in paragraph at lines 429--429
  [][] []\TU/TeXGyrePagella(0)/m/n/10.95 Velocity perturbations and Zel’dovich a
 pproxim- 
  []
 
 [6]
-Overfull \hbox (11.88112pt too wide) in paragraph at lines 461--461
+Overfull \hbox (11.88112pt too wide) in paragraph at lines 463--463
  [][] []\TU/TeXGyrePagella(2)/m/sc/10.95 general relativity as a quantum field 
 theory []  
  []
 
 
-Overfull \hbox (34.85825pt too wide) in paragraph at lines 469--469
+Overfull \hbox (34.85825pt too wide) in paragraph at lines 471--471
  [][] []\TU/TeXGyrePagella(0)/m/n/10.95 The action for matter fields in a gravi
 tational field []  
  []
@@ -5795,15 +5814,139 @@ Overfull \hbox (0.4753pt too wide) in paragraph at lines 26--26
 
 
 ]
-\openout2 = `Chapters/diffgeo.aux'.
+\openout2 = `Chapters/Acknowledgements.aux'.
 
- (./Chapters/diffgeo.tex
-Chapter 1.
-[2
+ (./Chapters/Acknowledgements.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--11
+
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 5--11
+
+ []
+
+Package microtype Info: Character `ﬆ' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `ﬅ' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `‥' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `‼' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `⌐' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `⁰' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `⁴' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `⁵' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `⁶' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `⁷' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `⁸' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `⁹' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `₀' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `₁' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `₂' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `₃' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `₄' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `₅' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `₆' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `₇' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `₈' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `₉' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `₊' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `₋' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `⁺' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `⁻' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `‒' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `―' is missing
+(microtype)             in font `\TU/TeXGyrePagella(0)/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Try loading font information for T1+frc on input line 18.
+(/usr/share/texlive/texmf-dist/tex/latex/frcursive/t1frc.fd
+File: t1frc.fd 2004/06/12 French Cursive font definition
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `frc' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `%' is missing
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblright ' has a width of 0pt 
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `T1/frc/m/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+) [2
 
 ]
+\openout2 = `Chapters/diffgeo.aux'.
+
+
+(./Chapters/diffgeo.tex
+Chapter 1.
 Package microtype Info: Character `ﬆ' is missing
 (microtype)             in font `\TU/TeXGyrePagella(0)/bx/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -5969,7 +6112,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--23
 
  []
 
-[3] [4]
+[3
+
+
+
+
+] [4]
 Underfull \hbox (badness 10000) in paragraph at lines 61--68
 
  []
@@ -9578,107 +9726,107 @@ Underfull \hbox (badness 10000) in paragraph at lines 1647--1651
 
  []
 
-[256]
-Overfull \hbox (10.92253pt too wide) in paragraph at lines 1681--1683
+[256] [257] [258]
+Overfull \hbox (10.92253pt too wide) in paragraph at lines 1765--1767
 \TU/TeXGyrePagella(0)/m/n/10.95 Thus, one has to remove the mean value/backgrou
 nd noise of the galactic
  []
 
-[257] [258]
-Underfull \hbox (badness 10000) in paragraph at lines 1722--1723
+[259] [260]
+Underfull \hbox (badness 10000) in paragraph at lines 1806--1807
 
  []
 
 File: gfx/gravlensingLightcongruence.png Graphic file (type bmp)
 <gfx/gravlensingLightcongruence.png>
 
-Overfull \hbox (2.30031pt too wide) in paragraph at lines 1733--1735
+Overfull \hbox (2.30031pt too wide) in paragraph at lines 1817--1819
 \TU/TeXGyrePagella(0)/m/n/10.95 For a lightray introduce an affine parameter pa
 rametrizing the geodesic,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1737--1742
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1826
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1737--1742
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1826
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1737--1742
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1826
 
  []
 
 File: gfx/gravlensingSachsbasis.png Graphic file (type bmp)
 <gfx/gravlensingSachsbasis.png>
-[259] [260] [261]
-Overfull \hbox (0.64685pt too wide) in paragraph at lines 1792--1796
+[261] [262] [263]
+Overfull \hbox (0.64685pt too wide) in paragraph at lines 1876--1880
 \TU/TeXGyrePagella(0)/m/n/10.95 shows that the cosmological constant doesn’t co
 ntribute to the propaga-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1792--1796
+Underfull \hbox (badness 10000) in paragraph at lines 1876--1880
 
  []
 
 
-Overfull \hbox (30.21718pt too wide) detected at line 1798
+Overfull \hbox (30.21718pt too wide) detected at line 1882
  $[][][][] [][] [] [][][][][][] [] [][][][][][] [][] [] [][][][][][][] [] [][][
 ][][] [] [][][] [] [][][][][][][]$  
  []
 
 
-Overfull \hbox (4.33704pt too wide) in paragraph at lines 1809--1815
+Overfull \hbox (4.33704pt too wide) in paragraph at lines 1893--1899
 \TU/TeXGyrePagella(0)/m/n/10.95 we took the positive root branch since a radial
  comoving light ray should
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1809--1815
+Underfull \hbox (badness 10000) in paragraph at lines 1893--1899
 
  []
 
-[262]
-Overfull \hbox (1.43645pt too wide) in paragraph at lines 1829--1833
+[264]
+Overfull \hbox (1.43645pt too wide) in paragraph at lines 1913--1917
 \TU/TeXGyrePagella(0)/m/n/10.95 The relativistic hydrodynamical equations for a
  metric connection $[][] []
  []
 
 
-Overfull \hbox (5.33707pt too wide) in paragraph at lines 1835--1837
+Overfull \hbox (5.33707pt too wide) in paragraph at lines 1919--1921
 \TU/TeXGyrePagella(0)/m/n/10.95 yields the \TU/TeXGyrePagella(0)/m/it/10.95 rel
 ativistic continuity equation \TU/TeXGyrePagella(0)/m/n/10.95 (time-derivative 
 of observer mov-
  []
 
-[263] [264]
-Overfull \hbox (4.07413pt too wide) in paragraph at lines 1908--1910
+[265] [266]
+Overfull \hbox (4.07413pt too wide) in paragraph at lines 1992--1994
 \TU/TeXGyrePagella(0)/m/n/10.95 Equivalently, the rel. hydrostatic equation in 
 stationary, spherically sym-
  []
 
-[265]
-Overfull \hbox (3.17902pt too wide) in paragraph at lines 1912--1914
+[267]
+Overfull \hbox (3.17902pt too wide) in paragraph at lines 1996--1998
 \TU/TeXGyrePagella(0)/m/n/10.95 sure as well. Thus, pressure has inertia ! Pres
 sure corresponds to energy-
  []
 
 
-Overfull \hbox (0.64983pt too wide) in paragraph at lines 1912--1914
+Overfull \hbox (0.64983pt too wide) in paragraph at lines 1996--1998
 [][] [] [][]$\TU/TeXGyrePagella(0)/m/n/10.95 , since $[]$ quantifies deviation 
 of the metric of flat (Minkowskian)
  []
 
-[266]) [267]
+[268]) [269]
 \openout2 = `Chapters/grQFT.aux'.
 
  (./Chapters/grQFT.tex
 Chapter 5.
-[268
+[270
 
 
 
@@ -9698,12 +9846,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--19
 
  []
 
-[269]
+[271]
 Underfull \hbox (badness 10000) in paragraph at lines 22--25
 
  []
 
-[270]
+[272]
 Overfull \hbox (7.8674pt too wide) in paragraph at lines 68--71
 \TU/TeXGyrePagella(0)/m/n/10.95 Now one writes $[][]$ as a sum over all possibl
 e independent products
@@ -9730,7 +9878,7 @@ Overfull \hbox (12.40971pt too wide) has occurred while \output is active
  []|[]|
  []
 
-[271] [272]
+[273] [274]
 Overfull \hbox (0.99724pt too wide) in paragraph at lines 109--112
 \TU/TeXGyrePagella(0)/m/n/10.95 We therefore succeeded with the aim to construc
 t a self-consistent
@@ -9747,7 +9895,7 @@ Overfull \hbox (12.40971pt too wide) has occurred while \output is active
  []|[]|
  []
 
-[273] [274]
+[275] [276]
 File: gfx/feynmanquantumgravity.png Graphic file (type bmp)
 <gfx/feynmanquantumgravity.png>
 
@@ -9755,7 +9903,7 @@ Overfull \hbox (12.40971pt too wide) has occurred while \output is active
  []|[]|
  []
 
-[275] [276]
+[277] [278]
 Chapter 6.
 
 Overfull \hbox (3.38431pt too wide) in paragraph at lines 230--232
@@ -9763,12 +9911,12 @@ Overfull \hbox (3.38431pt too wide) in paragraph at lines 230--232
 tensor are read-
  []
 
-[277
+[279
 
 
 ]
 Chapter 7.
-[278]
+[280]
 Overfull \hbox (0.97441pt too wide) in paragraph at lines 302--307
 \TU/TeXGyrePagella(0)/m/n/10.95 tion). As will be seen in the lecture, the mani
 fold describing space-
@@ -9780,26 +9928,21 @@ Overfull \hbox (2.68445pt too wide) in paragraph at lines 312--313
 what not for observer
  []
 
-[279
+[281
 
 
-] [280]
-Overfull \hbox (3.91084pt too wide) in paragraph at lines 371--377
-\TU/TeXGyrePagella(0)/m/n/10.95 zero, spin one particles violate Lorentz invari
-ance unless the fields
- []
-
-[281] [282]) [283]
+]) [282]
 \tf@thm=\write14
 \openout14 = `GRnotes.thm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
  (./GRnotes.aux (./FrontBackmatter/Titlepage.aux)
-(./FrontBackmatter/Contents.aux) (./Chapters/diffgeo.aux)
-(./Chapters/grtheory.aux) (./Chapters/grapplication.aux)
-(./Chapters/grcosmology.aux) (./Chapters/grQFT.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 102.
+(./FrontBackmatter/Contents.aux) (./Chapters/Acknowledgements.aux)
+(./Chapters/diffgeo.aux) (./Chapters/grtheory.aux)
+(./Chapters/grapplication.aux) (./Chapters/grcosmology.aux)
+(./Chapters/grQFT.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 109.
 
 
  *File List*
@@ -9993,11 +10136,14 @@ todonotes.sty    2012/07/25
  xkeyval.sty    2014/12/03 v2.7a package option processing (HA)
  xkeyval.tex    2014/12/03 v2.7a key=value parser (HA)
     calc.sty    2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+frcursive.sty    2004/02/01 v1.2 support package for French Cursive
+    soul.sty    2003/11/17 v2.4 letterspacing/underlining (mf)
  english.lbx    2017/12/19 v3.10 biblatex localization (PK/JW/AB)
  british.lbx    2017/12/19 v3.10 biblatex localization (PK/JW/AB)
 american.lbx    2017/12/19 v3.10 biblatex localization (PK/JW/AB)
   german.lbx    2017/12/19 v3.10 biblatex localization (PK/JW/AB)
  ngerman.lbx    2017/12/19 v3.10 biblatex localization (PK/JW/AB)
+ GRnotes.bbl
 mt-PalatinoLinotype.cfg    2012/03/10 v1.0 microtype config. file: Palatino Lin
 otype and similar fonts (LBD)
  nameref.sty    2016/05/21 v2.44 Cross-referencing by name of section
@@ -10010,6 +10156,8 @@ FrontBackmatter/Titlepage.tex
     umsb.fd    2013/01/14 v3.01 AMS symbols B
   mt-msb.cfg    2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 FrontBackmatter/Contents.tex
+Chapters/Acknowledgements.tex
+   t1frc.fd    2004/06/12 French Cursive font definition
 Chapters/diffgeo.tex
 gfx/ApproximateTimelikeByNullGeodesic.png
 gfx/ParalleltransportTwosphere.png
@@ -10065,7 +10213,7 @@ Chapters/grQFT.tex
 gfx/feynmanquantumgravity.png
  ***********
 
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 102.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 109.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -10077,12 +10225,12 @@ Package logreq Info: Writing requests to 'GRnotes.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 59941 strings out of 493007
- 1238797 string characters out of 6136718
- 2084209 words of memory out of 5000000
- 62844 multiletter control sequences out of 15000+600000
- 547987 words of font info for 174 fonts, out of 8000000 for 9000
+ 60238 strings out of 493007
+ 1244096 string characters out of 6136718
+ 2086415 words of memory out of 5000000
+ 63117 multiletter control sequences out of 15000+600000
+ 549297 words of font info for 177 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
  87i,23n,138p,10510b,5680s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on GRnotes.pdf (293 pages).
+Output written on GRnotes.pdf (292 pages).
